@@ -1,3 +1,12 @@
+# 🎓 Student Management System  
+[![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql)](https://www.mysql.com/)
+[![Tkinter](https://img.shields.io/badge/Tkinter-GUI-ffb703)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+> 💡 A beginner-friendly project to manage students’ data using **Python GUI (Tkinter)** and **MySQL Database**.  
+> Includes features like Add, Update, Delete, and Search with a clean UI.
+
 # 🎓 Student Management System (AWS RDS + MySQL)
 
 This is a **Python-based Student Management System** that connects to an **AWS RDS MySQL database**.  
